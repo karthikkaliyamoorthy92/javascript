@@ -675,5 +675,3 @@
 // document.writeln(`<p>Average: ${averageMarks.toFixed(2)}</p>`);
 // document.writeln(`<p>Grade: ${grade}</p>`);
 // document.writeln(`<p>Voting: ${votingEligibility}</p>`);
-
-
